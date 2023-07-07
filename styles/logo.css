@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.menu-contant{
+    background-color: lightsteelblue;
+    padding: 20px;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+nav li > a{
+    color: white;
+    
+}
+li:hover{
+    background-color: wheat;
+}
