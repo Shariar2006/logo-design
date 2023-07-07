@@ -4,7 +4,7 @@
 }
 .menu-contant{
     background-color: lightsteelblue;
-    padding: 20px;
+    padding: 10px;
     list-style: none;
     display: flex;
     align-items: center;
@@ -12,8 +12,16 @@
 }
 nav li > a{
     color: white;
+   margin-right: 10px; 
+   padding: 10px;
+   text-decoration: none;
     
 }
 li:hover{
     background-color: wheat;
+}
+
+.menu{
+    display: flex;
+    font-size: 26px;
 }
